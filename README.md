@@ -26,11 +26,12 @@ It helps in handling complex data retrieval scenarios commonly used in real-worl
 
 ## 🏗️ Project Structure
 
-```text
-src/main/java/
-├── entity/
-│   └── User.java
-├── repository/
-│   └── UserRepository.java
-├── service/ (optional)
+src/main/java/in/siddharth/
 ├── Application.java
+├── entity/
+│ └── Book.java
+└── repo/
+└── BookRepository.java
+
+👨‍💻 Author
+Siddharth Gaikwad
